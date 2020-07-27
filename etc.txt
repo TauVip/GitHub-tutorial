@@ -15,8 +15,8 @@
 13 git revert 'ID' - возврат проекта к определенному по ID коммиту
 14 git reset 'ID' - удаляет все коммиты начиная с ID
 15 git reset 'ID' --hard - удаляет все коммиты начиная с ID и возвращает все файлы до данного ID
-16 git remote add origin 'name' - соединяет с GitHub репозиторием
-17 git push -u origin 'name' - загружает ветку в GitHub репозиторий
+16 git remote add origin 'HTTPname' - соединяет с GitHub репозиторием
+17 git push -u origin 'BranchName' - загружает ветку в GitHub репозиторий
 18 git clone 'address' - копирует весь репозиторий
 19 git pull - добавляет последнюю версию проекта в папку
 
